@@ -1,0 +1,68 @@
+body{
+	background: url(../images/pattern.jpg);
+}
+
+.rings{
+	width: 250px;
+	height: 250px;
+	margin: 5px;
+}
+
+#header{
+	color: #fff;
+	background-color: #ffbdbd;
+	font-size: 60px;
+	text-align: center;
+	padding: 10px;
+}
+
+#instructions{
+	background-color: #5A8CFC;
+	border: 2px solid black;
+	color: #eae0f5;
+	font-size: 23px;
+	width: 50%;
+	margin: 10px;
+	padding: 10px;
+}
+
+#computerNumber,
+#totalScore{
+	line-height: 60px;
+	font-size: 30px;
+	font-weight: 700;
+	background-color: #eae0f5;
+	width: 120px;
+	text-align: center;
+	margin: 10px;
+}
+
+#computerNumber{
+	display: inline-block;
+}
+
+
+#totalScoreHeader{
+	background-color: #eae0f5;
+	text-align: center;
+	font-size: 23px;
+	width: 300px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#scoreCounter{
+	background-color: #ffbdbd;
+	text-align: justify;
+	font-size: 23px;
+	width: 200px;
+	height: 100px;
+	padding: 20px;
+	margin: 10px;
+	font-weight: 500;
+	display: inline-block;
+}
+
+
+
+
